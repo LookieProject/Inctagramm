@@ -1,5 +1,5 @@
 const page = () => {
-    return <div>Страница</div>
+    return <div>Стrerраница</div>
 }
 
 export default page
